@@ -1,0 +1,393 @@
+@media screen and (max-width: 1980px) {
+
+    *{
+        padding: 0;
+        margin: 0;
+    }
+
+    .no_permintaan{
+        font-family: verdana;
+        font-size: 24px;
+        z-index: 19;
+        position: absolute;
+        top: 32%;
+        left: 73%;
+    }
+
+    .tgl_permintaan{
+        font-family: verdana;
+        font-size: 24px;
+        z-index: 19;
+        position: absolute;
+        top: 36%;
+        left: 73%;
+    }
+
+    .departemen{
+        font-family: verdana;
+        font-size: 24px;
+        z-index: 19;
+        position: absolute;
+        top: 40%;
+        left: 73%;
+    }
+
+    .items{
+        font-family: verdana;
+        font-size: 24px;
+        z-index: 19;
+        position: absolute;
+        top: 55%;
+        left: 16.5%;
+        width: 80%;
+    }
+
+    .no{
+        float: left;
+        width: 5%;
+    }
+
+    .nama_barang{
+        float: left;
+        width: 36%;
+    }
+
+    .qty{
+        float: left;
+        width: 12%;
+    }
+
+    .harga{
+        float: left;
+        width: 22%;
+    }
+
+    .keterangan{
+        float: left;
+        width: 19%;
+    }
+
+    .tgl_dibutuhkan{
+        font-family: verdana;
+        font-size: 14px;
+        z-index: 19;
+        position: absolute;
+        top: 176%;
+        left: 34%;
+    }
+
+    .items_sign{
+        font-family: verdana;
+        font-size: 24px;
+        z-index: 19;
+        position: absolute;
+        top: 195%;
+        left: 23.5%;
+        width: 70%;
+    }
+
+    .pemohon_sign_head{
+        float: left;
+        width: 42%;
+    }
+
+    .pemohon_sign_divHeadHc{
+        float: left;
+        width: 42%;
+    }
+
+    .items_nama{
+        font-family: verdana;
+        font-size: 24px;
+        z-index: 19;
+        position: absolute;
+        top: 212%;
+        left: 23.5%;
+        width: 70%;
+    }
+
+    .pemohon_nama_head{
+        float: left;
+        width: 42%;
+    }
+
+    .pemohon_nama_divHeadHc{
+        float: left;
+        width: 42%;
+    }
+
+    .logo{
+        position: absolute;
+        top:36%;
+        width: 13.5%;
+        left: 15.5%;
+    }
+}
+
+
+
+
+@media screen and (max-width: 1440px) {
+
+    *{
+        padding: 0;
+        margin: 0;
+    }
+
+    .no_permintaan{
+        font-family: verdana;
+        font-size: 22px;
+        z-index: 19;
+        position: absolute;
+        top: 39%;
+        left: 74%;
+    }
+
+    .tgl_permintaan{
+        font-family: verdana;
+        font-size: 22px;
+        z-index: 19;
+        position: absolute;
+        top: 42%;
+        left: 74%;
+    }
+
+    .departemen{
+        font-family: verdana;
+        font-size: 20px;
+        z-index: 19;
+        position: absolute;
+        top: 46%;
+        left: 74%;
+    }
+
+    .items{
+        font-family: verdana;
+        font-size: 18px;
+        z-index: 19;
+        position: absolute;
+        top: 57%;
+        left: 21%;
+        width: 80%;
+    }
+
+    .no{
+        float: left;
+        width: 5%;
+    }
+
+    .nama_barang{
+        float: left;
+        width: 33%;
+    }
+
+    .qty{
+        float: left;
+        width: 10%;
+    }
+
+    .harga{
+        float: left;
+        width: 20%;
+    }
+
+    .keterangan{
+        float: left;
+        width: 21%;
+    }
+
+    .tgl_dibutuhkan{
+        font-family: verdana;
+        font-size: 9px;
+        z-index: 19;
+        position: absolute;
+        top: 168.3%;
+        left: 37.5%;
+    }
+
+    .items_sign{
+        font-family: verdana;
+        font-size: 24px;
+        z-index: 19;
+        position: absolute;
+        top: 184%;
+        left: 27%;
+        width: 70%;
+    }
+
+    .pemohon_sign_head{
+        float: left;
+        width: 38%;
+    }
+
+    .pemohon_sign_divHeadHc{
+        float: left;
+        width: 38%;
+    }
+
+    .items_nama{
+        font-family: verdana;
+        font-size: 20px;
+        z-index: 19;
+        position: absolute;
+        top: 198%;
+        left: 29%;
+        width: 70%;
+    }
+
+    .pemohon_nama_head{
+        float: left;
+        width: 33%;
+    }
+
+    .pemohon_nama_divHeadHc{
+        float: left;
+        width: 42%;
+    }
+
+    .logo{
+        position: absolute;
+        top: 43%;
+        width: 11%;
+        left: 21%;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+
+    *{
+        padding: 0;
+        margin: 0;
+    }
+
+    .no_permintaan{
+        font-family: verdana;
+        font-size: 14px;
+        z-index: 19;
+        position: absolute;
+        top: 34.6%;
+        left: 76%;
+    }
+
+    .tgl_permintaan{
+        font-family: verdana;
+        font-size: 14px;
+        z-index: 19;
+        position: absolute;
+        top: 36.7%;
+        left: 76%;
+    }
+
+    .departemen{
+        font-family: verdana;
+        font-size: 14px;
+        z-index: 19;
+        position: absolute;
+        top: 39%;
+        left: 76%;
+    }
+
+    .items{
+        font-family: verdana;
+        font-size: 14px;
+        z-index: 19;
+        position: absolute;
+        top: 47%;
+        left: 29%;
+        width: 68%;
+    }
+
+    .no{
+        float: left;
+        width: 5%;
+    }
+
+    .nama_barang{
+        float: left;
+        width: 35%;
+    }
+
+    .qty{
+        float: left;
+        width: 9.5%;
+    }
+
+    .harga{
+        float: left;
+        width: 19%;
+    }
+
+    .keterangan{
+        float: left;
+        width: 24%;
+    }
+
+    .tgl_dibutuhkan{
+        font-family: verdana;
+        font-size: 7px;
+        z-index: 19;
+        position: absolute;
+        top: 116%;
+        left: 43.5%;
+    }
+
+    .items_sign{
+        font-family: verdana;
+        font-size: 24px;
+        z-index: 19;
+        position: absolute;
+        top: 123%;
+        left: 32%;
+        width: 65%;
+    }
+
+    .pemohon_sign_head{
+        float: left;
+        width: 32%;
+    }
+
+    .pemohon_sign_head img{
+        width: 40%;
+    }
+
+    .pemohon_sign_divHeadHc img{
+        width: 40%;
+    }
+
+    .pemohon_sign_HeadBos{
+        float: left;
+        width: 38%;
+    }
+
+    .pemohon_sign_HeadBos img{
+        width: 40%;
+    }
+
+
+    .items_nama{
+        font-family: verdana;
+        font-size: 14px;
+        z-index: 19;
+        position: absolute;
+        top: 132%;
+        left: 32%;
+        width: 65%;
+    }
+
+    .pemohon_nama_head{
+        float: left;
+        width: 31%;
+    }
+
+    .pemohon_nama_divHeadHc{
+        float: left;
+        width: 38%;
+    }
+
+    .logo{
+        position: absolute;
+        top: 42%;
+        width: 11%;
+        left: 22%;
+    }
+}

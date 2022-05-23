@@ -1,0 +1,426 @@
+    @media print{
+        table {
+            border-collapse: collapse;
+            border-spacing: 2px;
+            page-break-inside:auto;
+        }
+        tr{
+            page-break-inside:avoid; page-break-after:auto;
+        }
+        .table-bordered td, .table-bordered th {
+            border: 1px solid #dee2e6;
+        }
+        .table td, .table th {
+            padding: .15rem;
+            vertical-align: top;
+            border-top: 1px solid #dee2e6;
+        }
+        .table-bordered {
+            border: 1px solid #dee2e6;
+        }
+
+        .table {
+            width: 100%;
+            max-width: 100%;
+            margin-bottom: 1rem;
+            background-color: transparent;
+        }
+
+        .table-striped tbody tr:nth-of-type(odd) {
+            background-color: rgba(0,0,0,.05);
+        }
+
+        #table2{
+            font-size: 10px;
+        }
+
+        #mengetahui{
+            position: absolute;
+            left:70%;
+        }
+
+        #mengetahui1{
+            position: absolute;
+            left:75%;
+        }
+
+        #mengetahui2{
+            position: absolute;
+            left:68%;
+        }
+
+        #namausr{
+            position: absolute;
+            left:70%;
+        }
+        #namauser{
+            position: absolute;
+            left:48%;
+        }
+        #sign{
+            position: absolute;
+            left:70%;
+        }
+
+        #cek{
+            position: absolute;
+            left:48%;
+        }
+        #cek2{
+            position: absolute;
+            left:25%;
+        }
+        #cek3{
+            position: absolute;
+            left:38%;
+        }
+        #sign1{
+            position: absolute;
+            left:48%;
+        }
+
+        #sign2{
+            position: absolute;
+            left:75%;
+        }
+
+        #sign3{
+            position: absolute;
+            left:38%;
+        }
+
+        #sign4{
+            position: absolute;
+            left:57%;
+        }
+        #sign5{
+            position: absolute;
+            left:78%;
+        }
+        #sign6{
+            position: absolute;
+            left:25%;
+        }
+
+        #sign7{
+            position: absolute;
+            left:45%;
+        }
+
+        #sign8{
+            position: absolute;
+            left:67%;
+        }
+
+        #sign9{
+            position: absolute;
+            left:87%;
+        }
+        #jbt{
+            position: absolute;
+            left:70%;
+        }
+        #jabatan{
+            position: absolute;
+            left:48%;
+        }
+        #namauser1{
+            position: absolute;
+            left:75%;
+        }
+        #jabatan1{
+            position: absolute;
+            left:75%;
+        }
+        #namausr1{
+            position: absolute;
+            left:38%;
+        }
+        #jbt1{
+            position: absolute;
+            left:38%;
+        }
+        #namausr2{
+            position: absolute;
+            left:57%;
+        }
+        #jbt2{
+            position: absolute;
+            left:57%;
+        }
+        #namausr3{
+            position: absolute;
+            left:78%;
+        }
+        #jbt3{
+            position: absolute;
+            left:78%;
+        }
+        #namausr4{
+            position: absolute;
+            left:72%;
+        }
+        #jbt4{
+            position: absolute;
+            left:72%;
+        }
+        #namausr5{
+            position: absolute;
+            left:87%;
+        }
+        #jbt5{
+            position: absolute;
+            left:87%;
+        }
+        #namausr6{
+            position: absolute;
+            left:25%;
+        }
+        #jbt6{
+            position: absolute;
+            left:25%;
+        }
+        #namausr7{
+            position: absolute;
+            left:45%;
+        }
+        #jbt7{
+            position: absolute;
+            left:45%;
+        }
+        #namausr8{
+            position: absolute;
+            left:67%;
+        }
+        #jbt8{
+            position: absolute;
+            left:67%;
+        }
+        #namausr9{
+            position: absolute;
+            left:87%;
+        }
+        #jbt9{
+            position: absolute;
+            left:87%;
+        }
+        .isian{
+            position: absolute;
+        }
+
+        .kepada{
+            padding-left: 5px;
+        }
+    }
+
+@media screen{
+        table {
+            border-collapse: collapse;
+            border-spacing: 2px;
+        }
+
+        .table-bordered td, .table-bordered th {
+            border: 1px solid #dee2e6;
+        }
+        .table td, .table th {
+            padding: .15rem;
+            vertical-align: top;
+            border-top: 1px solid #dee2e6;
+        }
+        .table-bordered {
+            border: 1px solid #dee2e6;
+        }
+
+        .table {
+            width: 100%;
+            max-width: 100%;
+            margin-bottom: 1rem;
+            background-color: transparent;
+        }
+
+        .table-striped tbody tr:nth-of-type(odd) {
+            background-color: rgba(0,0,0,.05);
+        }
+
+        #table2{
+            font-size: 10px;
+        }
+
+        #mengetahui{
+            position: absolute;
+            left:70%;
+        }
+
+        #mengetahui1{
+            position: absolute;
+            left:75%;
+        }
+
+        #mengetahui2{
+            position: absolute;
+            left:68%;
+        }
+
+        #namausr{
+            position: absolute;
+            left:70%;
+        }
+        #namauser{
+            position: absolute;
+            left:48%;
+        }
+        #sign{
+            position: absolute;
+            left:70%;
+        }
+
+        #cek{
+            position: absolute;
+            left:48%;
+        }
+        #cek2{
+            position: absolute;
+            left:25%;
+        }
+        #cek3{
+            position: absolute;
+            left:38%;
+        }
+        #sign1{
+            position: absolute;
+            left:48%;
+        }
+
+        #sign2{
+            position: absolute;
+            left:75%;
+        }
+
+        #sign3{
+            position: absolute;
+            left:38%;
+        }
+
+        #sign4{
+            position: absolute;
+            left:57%;
+        }
+        #sign5{
+            position: absolute;
+            left:78%;
+        }
+        #sign6{
+            position: absolute;
+            left:25%;
+        }
+
+        #sign7{
+            position: absolute;
+            left:45%;
+        }
+
+        #sign8{
+            position: absolute;
+            left:67%;
+        }
+
+        #sign9{
+            position: absolute;
+            left:87%;
+        }
+        #jbt{
+            position: absolute;
+            left:70%;
+        }
+        #jabatan{
+            position: absolute;
+            left:48%;
+        }
+        #namauser1{
+            position: absolute;
+            left:75%;
+        }
+        #jabatan1{
+            position: absolute;
+            left:75%;
+        }
+        #namausr1{
+            position: absolute;
+            left:38%;
+        }
+        #jbt1{
+            position: absolute;
+            left:38%;
+        }
+        #namausr2{
+            position: absolute;
+            left:57%;
+        }
+        #jbt2{
+            position: absolute;
+            left:57%;
+        }
+        #namausr3{
+            position: absolute;
+            left:78%;
+        }
+        #jbt3{
+            position: absolute;
+            left:78%;
+        }
+        #namausr4{
+            position: absolute;
+            left:72%;
+        }
+        #jbt4{
+            position: absolute;
+            left:72%;
+        }
+        #namausr5{
+            position: absolute;
+            left:87%;
+        }
+        #jbt5{
+            position: absolute;
+            left:87%;
+        }
+        #namausr6{
+            position: absolute;
+            left:25%;
+        }
+        #jbt6{
+            position: absolute;
+            left:25%;
+        }
+        #namausr7{
+            position: absolute;
+            left:45%;
+        }
+        #jbt7{
+            position: absolute;
+            left:45%;
+        }
+        #namausr8{
+            position: absolute;
+            left:67%;
+        }
+        #jbt8{
+            position: absolute;
+            left:67%;
+        }
+        #namausr9{
+            position: absolute;
+            left:87%;
+        }
+        #jbt9{
+            position: absolute;
+            left:87%;
+        }
+        .isian{
+            position: absolute;
+        }
+
+        .kepada{
+            padding-left: 5px;
+        }
+    }

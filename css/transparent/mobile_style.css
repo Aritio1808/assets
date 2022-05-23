@@ -1,0 +1,617 @@
+ @media only screen and (max-width: 420px) {
+
+        h1{
+            font-size: 20px;
+        }
+
+        h3{
+            font-size: 16px;
+        }
+
+        *{
+            padding: 0;
+            margin: 0;
+        }
+
+        body{
+            font-size: 9px;
+        }
+
+        #mengetahui{
+            position: absolute;
+            left:70%;
+            font-size: 9px;
+        }
+
+        #mengetahui1{
+            position: absolute;
+            left:62.5%;
+            font-size: 9px;
+        }
+
+        #mengetahui2{
+            position: absolute;
+            left:48%;
+            font-size: 9px;
+        }
+
+        #namausr{
+            position: absolute;
+            left:70%;
+            font-size: 9px;
+        }
+        #namauser{
+            position: absolute;
+            left:48%;
+            font-size: 9px;
+        }
+        #signAjukan{
+            min-width: 20%;
+            min-height: 25%;
+        }
+
+        #tanggan{
+            max-width: 30%;
+        }
+
+        #sign{
+            position: absolute;
+            left:63%;
+            max-width: 30%;
+        }
+
+        #sign1{
+            position: absolute;
+            left:40%;
+            max-width: 30%;
+        }
+
+        #sign2{
+            position: absolute;
+            left:67%;
+            max-width: 30%;
+        }
+
+        #sign3{
+            max-width: 18%;
+        }
+
+        #sign4{
+            position: absolute;
+            left:21%;
+            max-width: 18%;
+        }
+
+        #sign5{
+            position: absolute;
+            left:46%;
+            max-width: 18%;
+        }
+
+        #sign6{
+            position: absolute;
+            left:75%;
+            max-width: 18%;
+        }
+
+        #jbt{
+            position: absolute;
+            left:70%;
+            font-size: 9px;
+        }
+
+        #jabatan{
+            position: absolute;
+            left:48%;
+            font-size: 9px;
+        }
+
+        #namauser1{
+            position: absolute;
+            left:75%;
+            font-size: 9px;
+        }
+
+        #jabatan1{
+            position: absolute;
+            left:75%;
+            font-size: 9px;
+        }
+
+        #namausr1{
+            position: absolute;
+            left:21%;
+            font-size: 9px;
+        }
+
+        #jbt1{
+            position: absolute;
+            left:21%;
+            font-size: 9px;
+        }
+
+        #namausr2{
+            position: absolute;
+            left:46%;
+            font-size: 9px;
+        }
+
+        #jbt2{
+            position: absolute;
+            left:46%;
+            font-size: 9px;
+        }
+
+        #namausr3{
+            position: absolute;
+            left:75%;
+            font-size: 9px;
+        }
+
+        #jbt3{
+            position: absolute;
+            left:75%;
+            font-size: 9px;
+        }
+
+    }
+
+ @media only screen and (max-width: 823px) {
+
+        h1{
+            font-size: 20px;
+        }
+        
+        h3{
+            font-size: 16px;
+        }
+
+        *{
+            padding: 0;
+            margin: 0;
+        }
+
+        body{
+            font-size: 11px;
+        }
+
+        #mengetahui{
+            position: absolute;
+            left:70%;
+            font-size: 11px;
+        }
+
+        #mengetahui1{
+            position: absolute;
+            left:75%;
+            font-size: 11px;
+        }
+
+        #mengetahui2{
+            position: absolute;
+            left:63%;
+            font-size: 11px;
+        }
+
+        #namausr{
+            position: absolute;
+            left:70%;
+            font-size: 11px;
+        }
+        #namauser{
+            position: absolute;
+            left:44%;
+            font-size: 11px;
+        }
+        #signAjukan{
+            min-width: 20%;
+            min-height: 25%;
+        }
+
+        #tanggan{
+            max-width: 30%;
+        }
+
+        #sign{
+            position: absolute;
+            left:63%;
+            max-width: 30%;
+        }
+
+        #sign1{
+            position: absolute;
+            left:44%;
+            max-width: 30%;
+        }
+
+        #sign2{
+            position: absolute;
+            left:75%;
+            max-width: 30%;
+        }
+
+        #sign3{
+            position: absolute;
+            left:28%;
+            max-width: 30%;
+        }
+
+        #sign4{
+            position: absolute;
+            left:50%;
+            max-width: 30%;
+        }
+
+        #sign5{
+            position: absolute;
+            left:75%;
+            max-width: 30%;
+        }
+
+        #sign6{
+            position: absolute;
+            left:25%;
+            max-width: 30%;
+        }
+
+        #sign7{
+            position: absolute;
+            left:45%;
+            max-width: 30%;
+        }
+        #sign8{
+            position: absolute;
+            left:64%;
+            max-width: 30%;
+        }
+        #sign9{
+            position: absolute;
+            left:83%;
+            max-width: 30%;
+        }
+        #jbt{
+            position: absolute;
+            left:70%;
+            font-size: 11px;
+        }
+
+        #jabatan{
+            position: absolute;
+            left:44%;
+            font-size: 11px;
+        }
+
+        #namauser1{
+            position: absolute;
+            left:75%;
+            font-size: 11px;
+        }
+
+        #jabatan1{
+            position: absolute;
+            left:75%;
+            font-size: 11px;
+        }
+
+        #namausr1{
+            position: absolute;
+            left:28%;
+            font-size: 11px;
+        }
+
+        #jbt1{
+            position: absolute;
+            left:28%;
+            font-size: 11px;
+        }
+
+        #namausr2{
+            position: absolute;
+            left:50%;
+            font-size: 11px;
+        }
+
+        #jbt2{
+            position: absolute;
+            left:50%;
+            font-size: 11px;
+        }
+
+        #namausr3{
+            position: absolute;
+            left:75%;
+            font-size: 11px;
+        }
+
+        #jbt3{
+            position: absolute;
+            left:75%;
+            font-size: 11px;
+        }
+        #namausr4{
+            position: absolute;
+            left:25%;
+            font-size: 11px;
+        }
+
+        #jbt4{
+            position: absolute;
+            left:25%;
+            font-size: 11px;
+        }
+        #namausr5{
+            position: absolute;
+            left:45%;
+            font-size: 11px;
+        }
+
+        #jbt5{
+            position: absolute;
+            left:45%;
+            font-size: 11px;
+        }
+        #namausr6{
+            position: absolute;
+            left:64%;
+            font-size: 11px;
+        }
+
+        #jbt6{
+            position: absolute;
+            left:64%;
+            font-size: 11px;
+        }
+        #namausr7{
+            position: absolute;
+            left:83%;
+            font-size: 11px;
+        }
+
+        #jbt7{
+            position: absolute;
+            left:83%;
+            font-size: 11px;
+        }
+        #cek{
+            position: absolute;
+            left:44%;
+        }
+        #cek1{
+            position: absolute;
+            left:28%;
+        }
+        #cek2{
+            position: absolute;
+            left:25%;
+        }
+    }
+
+@media only screen and (max-width: 1024px) {
+
+        h1{
+            font-size: 20px;
+        }
+        
+        h3{
+            font-size: 16px;
+        }
+
+        *{
+            padding: 0;
+            margin: 0;
+        }
+
+        body{
+            font-size: 11px;
+        }
+
+        #mengetahui{
+            position: absolute;
+            left:70%;
+            font-size: 11px;
+        }
+
+        #mengetahui1{
+            position: absolute;
+            left:75%;
+            font-size: 11px;
+        }
+
+        #mengetahui2{
+            position: absolute;
+            left:63%;
+            font-size: 11px;
+        }
+
+        #namausr{
+            position: absolute;
+            left:70%;
+            font-size: 11px;
+        }
+        #namauser{
+            position: absolute;
+            left:44%;
+            font-size: 11px;
+        }
+        #signAjukan{
+            min-width: 20%;
+            min-height: 25%;
+        }
+
+        #tanggan{
+            max-width: 30%;
+        }
+
+        #sign{
+            position: absolute;
+            left:63%;
+            max-width: 30%;
+        }
+
+        #sign1{
+            position: absolute;
+            left:44%;
+            max-width: 30%;
+        }
+
+        #sign2{
+            position: absolute;
+            left:75%;
+            max-width: 30%;
+        }
+
+        #sign3{
+            position: absolute;
+            left:28%;
+            max-width: 30%;
+        }
+
+        #sign4{
+            position: absolute;
+            left:50%;
+            max-width: 30%;
+        }
+
+        #sign5{
+            position: absolute;
+            left:75%;
+            max-width: 30%;
+        }
+
+        #sign6{
+            position: absolute;
+            left:25%;
+            max-width: 30%;
+        }
+
+        #sign7{
+            position: absolute;
+            left:45%;
+            max-width: 30%;
+        }
+        #sign8{
+            position: absolute;
+            left:64%;
+            max-width: 30%;
+        }
+        #sign9{
+            position: absolute;
+            left:83%;
+            max-width: 30%;
+        }
+        #jbt{
+            position: absolute;
+            left:70%;
+            font-size: 11px;
+        }
+
+        #jabatan{
+            position: absolute;
+            left:44%;
+            font-size: 11px;
+        }
+
+        #namauser1{
+            position: absolute;
+            left:75%;
+            font-size: 11px;
+        }
+
+        #jabatan1{
+            position: absolute;
+            left:75%;
+            font-size: 11px;
+        }
+
+        #namausr1{
+            position: absolute;
+            left:28%;
+            font-size: 11px;
+        }
+
+        #jbt1{
+            position: absolute;
+            left:28%;
+            font-size: 11px;
+        }
+
+        #namausr2{
+            position: absolute;
+            left:50%;
+            font-size: 11px;
+        }
+
+        #jbt2{
+            position: absolute;
+            left:50%;
+            font-size: 11px;
+        }
+
+        #namausr3{
+            position: absolute;
+            left:75%;
+            font-size: 11px;
+        }
+
+        #jbt3{
+            position: absolute;
+            left:75%;
+            font-size: 11px;
+        }
+        #namausr4{
+            position: absolute;
+            left:25%;
+            font-size: 11px;
+        }
+
+        #jbt4{
+            position: absolute;
+            left:25%;
+            font-size: 11px;
+        }
+        #namausr5{
+            position: absolute;
+            left:45%;
+            font-size: 11px;
+        }
+
+        #jbt5{
+            position: absolute;
+            left:45%;
+            font-size: 11px;
+        }
+        #namausr6{
+            position: absolute;
+            left:64%;
+            font-size: 11px;
+        }
+
+        #jbt6{
+            position: absolute;
+            left:64%;
+            font-size: 11px;
+        }
+        #namausr7{
+            position: absolute;
+            left:83%;
+            font-size: 11px;
+        }
+
+        #jbt7{
+            position: absolute;
+            left:83%;
+            font-size: 11px;
+        }
+        #cek{
+            position: absolute;
+            left:44%;
+        }
+        #cek1{
+            position: absolute;
+            left:28%;
+        }
+        #cek2{
+            position: absolute;
+            left:25%;
+        }
+    }
